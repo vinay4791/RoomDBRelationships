@@ -1,5 +1,7 @@
 # RoomDBRelationships
 
+RoomDatabases have 3 major components Database, Entities and Daos.
+
 Relational Databases defines Relationships between tables.
 The can be 
 1. One to One Relationships

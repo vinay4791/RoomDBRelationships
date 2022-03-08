@@ -11,6 +11,6 @@ In this Demo
 2. School and Student is having One to N Relationship
 3. Student and Subject is having N to M Relationship.
 
-
+We need to create an Extra table for N-M Relationship which need to contain primary keys of both Entities involved in the relation ship.
 
 
